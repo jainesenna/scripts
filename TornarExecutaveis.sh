@@ -6,4 +6,3 @@ echo scripts agora executaveis!
 #__end_main__
 
 
-
